@@ -1,2 +1,2 @@
 # portfolio-site
-Portfolio sote with Angular 2
+Simple portfolio site with Angular 2
